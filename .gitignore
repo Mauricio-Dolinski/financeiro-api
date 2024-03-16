@@ -39,3 +39,6 @@ application.properties
 
 # Test
 test/
+
+# Docker
+docker/
