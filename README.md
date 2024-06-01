@@ -17,6 +17,12 @@ Back-end: https://github.com/Mauricio-Dolinski/financeiro-api
 
 # Telas do Projeto
 
+## Swager-UI
+
+![](https://i.imgur.com/P6O1rgd.png)
+
+Este serviço utiliza a especificação OpenAPI juntamente com o Swagger-UI, oferecendo uma experiência de documentação dinâmica e interativa.
+
 ## Dashboard
 ![](https://i.imgur.com/1a1YdrC.jpeg)
 
