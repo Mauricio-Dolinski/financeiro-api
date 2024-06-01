@@ -11,8 +11,8 @@ Back-end: https://github.com/Mauricio-Dolinski/financeiro-api
 | :label:Tecnologias | Java, Quarkus, Hibernate
 | :sparkles: Objetivo   | Visão integrada e atualizada da situação financeira, facilitando gestão, planejamento e tomadas de decisão.
 | :rocket: URL        | https://financeiro-api-1-eaad692ff6da.herokuapp.com/
-| :rocket: Swagger-UI        | https://financeiro-api-1-eaad692ff6da.herokuapp.com/q/swagger-ui/
-| :rocket: OpenAPI        | https://financeiro-api-1-eaad692ff6da.herokuapp.com/q/openapi?format=json
+| 📄 Swagger-UI        | https://financeiro-api-1-eaad692ff6da.herokuapp.com/q/swagger-ui/
+| 📑 OpenAPI        | https://financeiro-api-1-eaad692ff6da.herokuapp.com/q/openapi?format=json
 | :fire: Desafios     | Fazer um API RESTful que integre bem com o Front-end
 
 # Telas do Projeto
